@@ -1,7 +1,14 @@
-# 1. Intro
-# 2. Language
-# 3. Study
-# 4. Project
-|프로젝트 목록|날짜|Skill|링크|
-|----------|---|----|---|
-|테스트1     |테스트|테스트|테스트
+#### 1. Intro
+
+#### 2. Skills
+HTML, CSS, Javascript, Typescript, Node.js, Nest.js, Spring, Java, Kotlin, MySQL, Python, Torch, keras, tensorflow, flask
+
+
+#### 3. Study
+
+
+
+#### 4. Project
+|프로젝트 목록 |     날짜    |   Skill   |   링크   |
+|----------|-------------|-----------|---------|
+|  테스트    |    테스트     |    테스트  |  테스트   |
