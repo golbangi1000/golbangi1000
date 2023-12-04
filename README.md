@@ -1,10 +1,9 @@
 #### 1. Intro
 Graduated from Surrey Univesrity
 #### 2. Skills
-HTML, CSS, Javascript, Typescript, Node.js, Nest.js, Spring, Java, Kotlin, MySQL, Python, Torch, keras, tensorflow, flask
+HTML, CSS, Javascript, Typescript, Node.js, Nest.js, Spring, Java, MySQL, Python, Torch, keras, tensorflow, flask
 
-
-#### 3. Study
+#### 3. Studies
 
 
 
